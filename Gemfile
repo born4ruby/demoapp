@@ -47,3 +47,11 @@ end
 
 # JavaScript runtimes
   gem 'therubyracer'
+
+# Authentication gem devise
+  gem 'devise'
+
+# Twitter bootstrap rails gem
+  gem 'less-rails'
+  gem 'twitter-bootstrap-rails'
+
